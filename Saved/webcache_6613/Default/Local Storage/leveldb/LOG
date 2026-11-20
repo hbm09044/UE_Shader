@@ -1,3 +1,7 @@
-2026/11/13-09:05:04.533 60dc Reusing MANIFEST C:\KES 202110801\Unreal\Study\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/11/13-09:05:04.539 60dc Recovering log #3
-2026/11/13-09:05:04.542 60dc Reusing old log C:\KES 202110801\Unreal\Study\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/11/20-09:26:24.329 6e74 Reusing MANIFEST C:\KES 202110801\Unreal\Study\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/20-09:26:24.335 6e74 Recovering log #3
+2026/11/20-09:26:24.335 6e74 Level-0 table #3: started
+2026/11/20-09:26:24.341 6e74 Level-0 table #3: 60600 bytes OK
+2026/11/20-09:26:24.342 6e74 Recovering log #4
+2026/11/20-09:26:24.344 6e74 Reusing old log C:\KES 202110801\Unreal\Study\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/11/20-09:26:24.348 6e74 Delete type=0 #3
